@@ -55,6 +55,6 @@ class MainController {
           .then(data => this._main.updatePage(0, data))
           .catch(erro => console.log(erro));
       }
-    }, 5000);
+    }, 500);
   }
 }
