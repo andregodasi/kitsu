@@ -30,7 +30,7 @@ class MainView extends View {
                     ${character.attributes.name}
                   </div>
                 </td>
-                <td class="display-none-360"> ${character.attributes.description.length > 100 ? character.attributes.description.substring(1, 100) + '...' : character.attributes.description}</td>
+                <td class="display-none-360"> ${character.attributes.description.length > 100 ? character.attributes.description.substring(0, 100) + '...' : character.attributes.description}</td>
               </tr>
             `).join('')}
             </tbody>
