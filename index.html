@@ -1,35 +1,52 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Find Kitsu</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/index.css">
-  </head>
-<body class="container">
-    
-    <header>meu header</header>
-    
-    <div id="root"></div>
 
-    <footer></footer>
-    
-    <script src="js/app/models/Main.js"></script>
-    <script src="js/app/controllers/MainController.js"></script>
-    <script src="js/app/helpers/DateHelper.js"></script>
-    <script src="js/app/views/View.js"></script>
-    <script src="js/app/views/MainView.js"></script>
-    <script src="js/app/services/ProxyFactory.js"></script>
-    <script src="js/app/helpers/Bind.js"></script>
-    <script src="js/app/services/HttpService.js"></script>
-    <script src="js/app/models/Detail.js"></script>
-    <script src="js/app/controllers/DetailController.js"></script>
-    <script src="js/app/views/DetailView.js"></script>
-    <script>
-        var detailController;
-        var mainController = new MainController();
-    </script>
-    
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Find Kitsu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="css/index.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/5df819c693.js"></script>
+
+</head>
+
+<body class="container">
+
+  <header>
+    <div>
+      <b>BUSCA KITSU</b> TESTE FRONT-END
+      <hr>
+    </div>
+    <div id="name-developer">
+      ANDRÉ GONÇALVES
+    </div>
+  </header>
+
+  <div id="root"></div>
+
+  <footer></footer>
+
+  <script src="js/app/models/Main.js"></script>
+  <script src="js/app/controllers/MainController.js"></script>
+  <script src="js/app/helpers/DateHelper.js"></script>
+  <script src="js/app/views/View.js"></script>
+  <script src="js/app/views/MainView.js"></script>
+  <script src="js/app/services/ProxyFactory.js"></script>
+  <script src="js/app/helpers/Bind.js"></script>
+  <script src="js/app/services/HttpService.js"></script>
+  <script src="js/app/models/Detail.js"></script>
+  <script src="js/app/controllers/DetailController.js"></script>
+  <script src="js/app/views/DetailView.js"></script>
+  <script src="js/app/models/Page.js"></script>
+  <script src="js/app/services/MainService.js"></script>
+  <script>
+    var detailController;
+    var mainController = new MainController();
+  </script>
+
 </body>
+
 </html>

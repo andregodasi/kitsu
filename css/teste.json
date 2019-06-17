@@ -1,0 +1,552 @@
+{
+  "data": [
+    {
+      "id": "21",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/21"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.431Z",
+        "updatedAt": "2018-08-05T02:31:49.574Z",
+        "slug": "rhint-celonias",
+        "names": {
+          "en": "Rhint Celonias",
+          "ja_jp": "リンド"
+        },
+        "canonicalName": "Rhint Celonias",
+        "otherNames": [],
+        "name": "Rhint Celonias",
+        "malId": 23687,
+        "description": "Age: 27 <br>Height: 5'11\"<br>Weight: 154.5 lbs<br><br>Rhint is the boyfriend of Jet's old girlfriend that killed an loan shark in Jet's hometown. He has an bounty on his head and he ends up caught by Jet and goes to jail.<br><br>(Source: Cowboy Bebop Wikia)",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/21/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/21/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/21/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/21/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/21/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/21/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/21/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/21/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/21/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "22",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/22"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.442Z",
+        "updatedAt": "2018-08-05T02:31:49.587Z",
+        "slug": "grencia-mars-elijah-guo-eckener",
+        "names": {
+          "en": "Grencia Mars Elijah Guo Eckener",
+          "ja_jp": "グレン"
+        },
+        "canonicalName": "Grencia Mars Elijah Guo Eckener",
+        "otherNames": [
+          "Gren"
+        ],
+        "name": "Grencia Mars Elijah Guo Eckener",
+        "malId": 2736,
+        "description": "Gren was once a soldier for the war on Titan, and appears in the two-part episodes of 'Jupiter Jazz'. On Titan he fought beside Vicious, who he admired and found encouragement in, during the war. After the war, Gren came back hoping to be a jazz musician, but that plan was cut short when he was arrested on the pretense of being a spy. In prison, Gren heard that Vicious testified against him; this and the isolation drove him mad. The prison used prisoners for drug experiments, and he was forced to become a test subject. (from Wikipedia)<br><br>Height: 6ft 2 inches<br>Age : 29<br>Weight : 172 pounds<br><br>",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/22/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/22/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/22/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/22/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/22/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/22/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/22/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/22/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/22/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "23",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/23"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.463Z",
+        "updatedAt": "2018-08-05T02:31:49.610Z",
+        "slug": "abdul-hakim",
+        "names": {
+          "en": "Abdul Hakim",
+          "ja_jp": "ハキム"
+        },
+        "canonicalName": "Abdul Hakim",
+        "otherNames": [],
+        "name": "Abdul Hakim",
+        "malId": 29559,
+        "description": "The notorious serial pet thief who went after Ein. His appearance and fighting style were modeled after the NBA star Kareem Abdul-Jabbar.<br><br>(Source: Cowboy Bebop Wiki)",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/23/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/23/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/23/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/23/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/23/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/23/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/23/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/23/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/23/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "24",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/24"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.480Z",
+        "updatedAt": "2018-08-05T02:31:49.624Z",
+        "slug": "afedersiniz-hesap-lutfen",
+        "names": {
+          "en": "Afedersiniz Hesap Lütfen",
+          "ja_jp": "アップルデリー・シニズ・ヘサップ・リュトフェン"
+        },
+        "canonicalName": "Afedersiniz Hesap Lütfen",
+        "otherNames": [],
+        "name": "Afedersiniz Hesap Lütfen",
+        "malId": 13249,
+        "description": "Age: 42<br>Height: 6 ft.<br>Weight: 466 lbs.<br>Birth place: Earth<br><br>Afedersiniz Hesap Lutfen (which means \"excuse me, check please\" in Turkish), is Ed's father. He is a cartographer on Earth (a questionable occupation on a planet which undergoes changes to its landscape daily due to asteroid impacts). <br><br><span class=\"spoiler\">In episode 24 of Cowboy Bebop, Ed put a 50.000 000 Oolong bounty on him, which Jet and Spike saw as 50 million Oolongs (it is in fact only 50) and decided to collect his bounty. This allowed Edward to find her father, who asked her if she wanted to come along with her, but left without hearing her answer because a meteor struck.</span>",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/24/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/24/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/24/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/24/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/24/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/24/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/24/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/24/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/24/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "25",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/25"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.490Z",
+        "updatedAt": "2018-08-05T02:31:49.645Z",
+        "slug": "meifa-puzi",
+        "names": {
+          "en": "Meifa Puzi",
+          "ja_jp": "メイファ"
+        },
+        "canonicalName": "Meifa Puzi",
+        "otherNames": [],
+        "name": "Meifa Puzi",
+        "malId": 36364,
+        "description": "A talented feng-shui practitioner like her father Pao Puzi. She develops a close bond with Jet.",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/25/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/25/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/25/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/25/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/25/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/25/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/25/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/25/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/25/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "26",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/26"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.513Z",
+        "updatedAt": "2018-08-05T02:31:49.667Z",
+        "slug": "katerina-solensan",
+        "names": {
+          "en": "Katerina Solensan",
+          "ja_jp": "カテリーナ"
+        },
+        "canonicalName": "Katerina Solensan",
+        "otherNames": [],
+        "name": "Katerina Solensan",
+        "malId": 30572,
+        "description": "Katerina Solensan was a drug smuggler and woman of the criminal Asimov Solensan. She dreamed of leaving the Tijuana asteroid for a better life on Mars, but died in her escape attempt alongside Asimov.",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/26/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/26/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/26/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/26/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/26/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/26/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/26/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/26/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/26/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "27",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/27"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.524Z",
+        "updatedAt": "2018-08-05T02:31:49.680Z",
+        "slug": "udai-taxim",
+        "names": {
+          "en": "Udai Taxim",
+          "ja_jp": "ウダイ・タクシム"
+        },
+        "canonicalName": "Udai Taxim",
+        "otherNames": [],
+        "name": "Udai Taxim",
+        "malId": 23611,
+        "description": "Udai Taxim was an assassin and former member of the European syndicate. He was involved in a plot to kill or injure the former ISSP agent Jet Black, who was one of the few police officers not on the syndicate payroll. As a result Jet lost his arm and was forced to use a prosthetic one.<br>In 2071 Udai was transferred on a transport prison ship to Pluto when an electrically short-circuiting allowed him and his fellow inmates to hijack the ship. Jet and his former partner at the ISSP, Fad, tracked the ship down and boarded it. Fad killed Udai after he revealed that his partner was the shooter that took Jet's arm.<br><br>He uses the same knives as Navajas, the knife thrower from Desperados (1995).",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/27/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/27/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/27/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/27/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/27/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/27/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/27/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/27/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/27/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "28",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/28"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.534Z",
+        "updatedAt": "2018-08-02T19:44:53.809Z",
+        "slug": "victoria-terpsichore",
+        "names": {
+          "en": "Victoria Terpsichore",
+          "ja_jp": "ブイティー"
+        },
+        "canonicalName": "Victoria Terpsichore",
+        "otherNames": [
+          "V. T.",
+          "Heavy Metal Queen"
+        ],
+        "name": "Victoria Terpsichore",
+        "malId": 70753,
+        "description": "Victoria Terpsichore is a tough-talking, and widowed space trucker, whose deceased husband, Ural Terpsichore, is a man that fellow bounty hunters regard as a \"legendary bounty hunter.\" Always with her cat, Zeros, she appears in the episode \"Heavy Metal Queen\". Spike meets her in a bar while on hunt for a explosive-smuggling criminal named Decker. After having a bar brawl with several stooges, Spike and VT seem to become fast friends until she learns Spike is a bounty hunter. Although she initially regards Spike as \"lowlife bounty hunter scum,\" she puts their differences aside and reluctantly works with him when their paths cross again as V.T. begins searching for Decker, who has performed a ship hit and run on one of her fellow truck drivers.<br><br>Her full name is largely a secret, which has prompted many to bet money and guess what her initials stand for. However, none have succeeded in winning the stack of money she's gained from numerous incorrect guesses. She is also known as the \"Heavy Metal Queen,\" for her deep love of heavy metal music, which she considers \"very soothing.\" Able to adapt to various situations, her philosophy is, \"when in Rome, do as the Romans do.\" Considering her disdain against bounty hunters, it is believed that her husband, Ural Terpsichore, was killed, while pursuing a bountyhead. Her first name is briefly mentioned, when Spike sees her pocket watch. However, he knows her last name, due to the popularity and memory of her late husband.<br><br>(Source: Wikipedia)",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/28/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/28/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/28/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/28/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/28/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/28/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/28/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/28/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/28/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "29",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/29"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.552Z",
+        "updatedAt": "2018-08-05T02:31:49.730Z",
+        "slug": "andy-von-de-oniyate",
+        "names": {
+          "en": "Andy Von de Oniyate",
+          "ja_jp": "アンディ・フォン・デ・オニアテ"
+        },
+        "canonicalName": "Andy Von de Oniyate",
+        "otherNames": [
+          "Wyatt Earp",
+          "Cowboy Andy",
+          "Musashi"
+        ],
+        "name": "Andy Von de Oniyate",
+        "malId": 23740,
+        "description": "Andy is a hunter who went after a criminal called Teddy Bomber whom he thought to be Spike. He is always with his mare, Onyx. He's a member of YMCA, Young Man's Cowboy Association. After fighting and losing he gives is cowboy title to Spike and turns into a samurai.",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/29/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/29/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/29/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/29/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/29/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/29/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/29/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/29/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/29/quotes"
+          }
+        }
+      }
+    },
+    {
+      "id": "30",
+      "type": "characters",
+      "links": {
+        "self": "https://kitsu.io/api/edge/characters/30"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.722Z",
+        "updatedAt": "2018-08-02T19:39:20.621Z",
+        "slug": "electra-ovilo",
+        "names": {
+          "en": "Electra Ovilo",
+          "ja_jp": "エレクトラ・オヴィロゥ"
+        },
+        "canonicalName": "Electra Ovilo",
+        "otherNames": [],
+        "name": "Electra Ovilo",
+        "malId": 8435,
+        "description": "Electra Ovilo is a veteran of the Titan War. Her love for Vincent caused them to have a short-term relationship, during which Vincent transferred the vaccine to Electra. She is unaware of this until Vincent sets free the Nanomachines on the Monorail and she survives. She meets Spike by chance when he infiltrates a bio weapon lab fronting as a pharmaceutical company where she works. After a few more chance meetings, and witnessing his being shot and thrown from a monorail by Vincent, she teams up with the crew of the Bebop to put an end to Vincent's intent to destroy the population of Mars.<br><br><span class=\"spoiler\">The samples of her blood are used to make the vaccine that is spread over Alba city. In the end, it is she who shoots Vincent and kills him. She cries for him when he admits he remembers her and their love for one another as he is dying.</span> <br>(Source: Wikipedia)",
+        "image": {
+          "original": "https://media.kitsu.io/characters/images/30/original.jpg?1483096805",
+          "meta": {
+            "dimensions": {}
+          }
+        }
+      },
+      "relationships": {
+        "primaryMedia": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/30/relationships/primary-media",
+            "related": "https://kitsu.io/api/edge/characters/30/primary-media"
+          }
+        },
+        "castings": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/30/relationships/castings",
+            "related": "https://kitsu.io/api/edge/characters/30/castings"
+          }
+        },
+        "mediaCharacters": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/30/relationships/media-characters",
+            "related": "https://kitsu.io/api/edge/characters/30/media-characters"
+          }
+        },
+        "quotes": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/characters/30/relationships/quotes",
+            "related": "https://kitsu.io/api/edge/characters/30/quotes"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "count": 105772
+  },
+  "links": {
+    "first": "https://kitsu.io/api/edge/characters?page%5Blimit%5D=10&page%5Boffset%5D=0",
+    "prev": "https://kitsu.io/api/edge/characters?page%5Blimit%5D=10&page%5Boffset%5D=10",
+    "next": "https://kitsu.io/api/edge/characters?page%5Blimit%5D=10&page%5Boffset%5D=30",
+    "last": "https://kitsu.io/api/edge/characters?page%5Blimit%5D=10&page%5Boffset%5D=105762"
+  }
+}
