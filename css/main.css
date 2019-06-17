@@ -160,3 +160,52 @@ hr {
   object-position: top;
   margin-right: 25px;
 }
+
+
+@media(max-width: 360px) {
+  .main_search-character {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 42px;
+    margin-right: 42px;
+  }
+
+  tbody tr td {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  th {
+    width: 100%;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  th:not(:last-child) {
+    border-right: 0;
+  }
+
+  .main_container {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  main_paginator-container {
+    padding-bottom: 24px;
+  }
+
+  .main_paginator a:nth-child(5),
+  .main_paginator a:nth-child(6) {
+    display: none;
+  }
+
+  .main_paginator a:first-child {
+    margin-right: 50px;
+  }
+
+  .main_paginator a:last-child {
+    margin-left: 50px;
+
+  }
+
+}

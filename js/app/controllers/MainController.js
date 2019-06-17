@@ -16,6 +16,11 @@ class MainController {
       .catch(erro => console.log(erro));
   }
 
+  redirectDetail(idCharacter) {
+    console.log('passou');
+    detailController = new DetailController(idCharacter);
+  }
+
   nextPage() {
     const pageNextOffset = this._main.pageOffset + 10;
     this._service

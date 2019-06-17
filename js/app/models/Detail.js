@@ -1,13 +1,13 @@
 class Detail {
   constructor() {
-    this._texto = 'XXXXX';
+    this._media;
   }
 
-  set texto(texto) {
-    this._texto = texto;
+  set media(media) {
+    this._media = media;
   }
 
-  get texto() {
-    return this._texto;
+  get media() {
+    return this._media;
   }
 }

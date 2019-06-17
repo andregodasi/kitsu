@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": "103",
+      "type": "castings",
+      "links": {
+        "self": "https://kitsu.io/api/edge/castings/103"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.448Z",
+        "updatedAt": "2016-04-22T12:00:26.433Z",
+        "role": "Voice Actor",
+        "voiceActor": true,
+        "featured": false,
+        "language": "Japanese"
+      },
+      "relationships": {
+        "media": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/103/relationships/media",
+            "related": "https://kitsu.io/api/edge/castings/103/media"
+          }
+        },
+        "character": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/103/relationships/character",
+            "related": "https://kitsu.io/api/edge/castings/103/character"
+          }
+        },
+        "person": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/103/relationships/person",
+            "related": "https://kitsu.io/api/edge/castings/103/person"
+          }
+        }
+      }
+    },
+    {
+      "id": "104",
+      "type": "castings",
+      "links": {
+        "self": "https://kitsu.io/api/edge/castings/104"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.452Z",
+        "updatedAt": "2016-04-22T12:00:28.081Z",
+        "role": "Voice Actor",
+        "voiceActor": true,
+        "featured": false,
+        "language": "English"
+      },
+      "relationships": {
+        "media": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/104/relationships/media",
+            "related": "https://kitsu.io/api/edge/castings/104/media"
+          }
+        },
+        "character": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/104/relationships/character",
+            "related": "https://kitsu.io/api/edge/castings/104/character"
+          }
+        },
+        "person": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/104/relationships/person",
+            "related": "https://kitsu.io/api/edge/castings/104/person"
+          }
+        }
+      }
+    },
+    {
+      "id": "105",
+      "type": "castings",
+      "links": {
+        "self": "https://kitsu.io/api/edge/castings/105"
+      },
+      "attributes": {
+        "createdAt": "2013-02-20T18:49:21.459Z",
+        "updatedAt": "2016-04-22T12:00:28.088Z",
+        "role": "Voice Actor",
+        "voiceActor": true,
+        "featured": false,
+        "language": "Korean"
+      },
+      "relationships": {
+        "media": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/105/relationships/media",
+            "related": "https://kitsu.io/api/edge/castings/105/media"
+          }
+        },
+        "character": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/105/relationships/character",
+            "related": "https://kitsu.io/api/edge/castings/105/character"
+          }
+        },
+        "person": {
+          "links": {
+            "self": "https://kitsu.io/api/edge/castings/105/relationships/person",
+            "related": "https://kitsu.io/api/edge/castings/105/person"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "count": 3
+  },
+  "links": {
+    "first": "https://kitsu.io/api/edge/characters/22/castings?page%5Blimit%5D=10&page%5Boffset%5D=0",
+    "last": "https://kitsu.io/api/edge/characters/22/castings?page%5Blimit%5D=10&page%5Boffset%5D=0"
+  }
+}

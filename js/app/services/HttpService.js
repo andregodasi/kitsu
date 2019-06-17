@@ -15,12 +15,12 @@ class HttpService {
       
   }
   
-  post(url, dado) {
+  post(url, data) {
 
       return fetch(url, {
           headers: { 'Content-type' : 'application/json'},
           method: 'post',
-          body: JSON.stringify(dado)
+          body: JSON.stringify(data)
       })
       .then(res => this._handleErrors(res));
 
