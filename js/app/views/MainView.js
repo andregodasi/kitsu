@@ -17,12 +17,12 @@ class MainView extends View {
             <thead>
               <tr>
                 <th>Personagem</th>
-                <th>Descrição</th>
+                <th class="display-none-360">Descrição</th>
               </tr>
             </thead>
             <tbody>
             ${model.page.data.map(character => `
-            <tr>
+            <tr onclick="mainController.redirectDetail(${character.id})">
                 <td>
                   <div class="d-flex align-items-center">
                     <img class="main_td-image"
@@ -30,7 +30,7 @@ class MainView extends View {
                     ${character.attributes.name}
                   </div>
                 </td>
-                <td> ${character.attributes.description.length > 100 ? character.attributes.description.substring(1, 100) + '...' : character.attributes.description}</td>
+                <td class="display-none-360"> ${character.attributes.description.length > 100 ? character.attributes.description.substring(1, 100) + '...' : character.attributes.description}</td>
               </tr>
             `).join('')}
             </tbody>
