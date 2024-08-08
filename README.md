@@ -5,14 +5,14 @@
 <h1 align="center">Kitsu - animes</h1>
 
 <h1 align="center">
-    <img alt="home" src="" />
+    <img alt="home" src="https://github.com/andregodasi/kitsu/blob/master/public/home-page.png?raw=true" />
 </h1>
 
 <br>
 
 ## 💻 Projeto
 
-Este projeto é um desafio proposto pela empresa **[Objective](https://www.objective.com.br/)** para avaliar o desempenho e conhecimentos em front-end. Para mais detalhes sobre o desafio veja a seção abaixo e para mais detalhes sobre design acesse o [protótipo](https://github.com/andregodasi/kitsu/tree/master/public/specification,pdf).
+Este projeto é um desafio proposto pela empresa **[Objective](https://www.objective.com.br/)** para avaliar o desempenho e conhecimentos em front-end. Para mais detalhes sobre o desafio veja a seção abaixo e para mais detalhes sobre design acesse o [protótipo](https://github.com/andregodasi/kitsu/blob/master/public/specification.pdf).
 
 ## Especificação do desafio
 
